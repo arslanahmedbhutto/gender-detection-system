@@ -1,0 +1,17 @@
+# Dataset images (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
